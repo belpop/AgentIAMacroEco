@@ -1,0 +1,5 @@
+fastapi
+apscheduler
+feedparser
+httpx
+python-dotenv
